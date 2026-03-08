@@ -97,6 +97,7 @@ This repository is in early development. Code will be added incrementally as com
 ### Planned Milestones
 
 - [x] Learn about OSINT and produce roadmap
+- [ ] IRB approval (if required prior to research/data collection)
 - [ ] Core infrastructure and data collection framework
 - [ ] Entity profiling and cross-platform enumeration
 - [ ] Image intelligence pipeline
