@@ -34,7 +34,7 @@ This project explores several key research questions:
 
 ### Methodology
 
-The project is structured around four core research components:
+The project is structured around five core research components:
 
 #### 1. **Entity Profiling & Cross-Platform Enumeration**
 - Username enumeration across multiple platforms
@@ -60,13 +60,13 @@ The project is structured around four core research components:
 
 **Research Focus**: Applying graph theory and network analysis to understand digital relationships and information flow.
 
-#### 4. **Temporal Intelligence & Activity Tracking**
+#### 4. **Comprehensive Analysis & Activity Tracking**
 - Timeline reconstruction from multiple sources
 - Activity pattern recognition
 - Cross-entity temporal correlation
 - Predictive modeling for activity forecasting
 
-**Research Focus**: Developing methods for temporal correlation and pattern recognition in time-series OSINT data.
+**Research Focus**: Developing / implementing methods for temporal correlation, pattern recognition, and deeper analysis in OSINT data.
 
 #### 5. **AI and LLM-based Automation**
 - Automated OSINT task orchestration using AI agents
